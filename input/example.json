@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Hello World!",
+    "hosts": "localhost",
+    "connection": "local",
+    "gather_facts": false,
+    "tasks": [
+      {
+        "name": "Hello World!",
+        "shell": "echo \"Hi! Tower is working.\""
+      }
+    ]
+  }
+]
